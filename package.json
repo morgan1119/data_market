@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@coingecko/cryptoformat": "^0.5.4",
-    "@loadable/component": "^5.15.2",
+    "@loadable/component": "^5.16.3",
     "@oceanprotocol/art": "^3.2.0",
     "@oceanprotocol/lib": "^1.1.6",
     "@oceanprotocol/typographies": "^0.1.0",
@@ -82,7 +82,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@types/js-cookie": "^3.0.2",
-    "@types/loadable__component": "^5.13.4",
+    "@types/loadable__component": "^5.13.9",
     "@types/lodash.debounce": "^4.0.7",
     "@types/lodash.omit": "^4.5.7",
     "@types/node": "^17.0.41",
